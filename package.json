@@ -1,0 +1,30 @@
+{
+  "name": "my-base-convertor",
+  "version": "1.0.0",
+  "description": "A npm module facilitating base conversions between binary, decimal, hexadecimal, and octal in Javasctipt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankanand2701/Base-Convertor.git"
+  },
+  "keywords": [
+    "Base Conversion",
+    "Number Conversion",
+    "Number System Convertor",
+    "Decimal",
+    "Hexadecimal",
+    "Binary",
+    "Octal",
+    "Number System",
+    "Javasctipt"
+  ],
+  "author": "Mayank Anand",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mayankanand2701/Base-Convertor/issues"
+  },
+  "homepage": "https://github.com/mayankanand2701/Base-Convertor#readme"
+}
